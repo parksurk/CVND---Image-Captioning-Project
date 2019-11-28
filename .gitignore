@@ -107,10 +107,10 @@ ENV/
 *.app
 *.exe
 
-saved_models/
+# saved_models/
 
 
-models/
+# models/
 data/
 .ipynb_checkpoints/
 __pycache__/
